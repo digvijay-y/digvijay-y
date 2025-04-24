@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Digvijay!
 
 🎓 Final year Electronics & Telecommunication Engineering student  
-📍 India | 🎯 Goal: Quant, FinTech & Embedded Systems  
+📍 India | 🎯 Goal: Quant, FinTech & DevOps  
 📅 Graduating: August 2026
 
 ---
