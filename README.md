@@ -19,7 +19,7 @@
 ### 🛠 Tech Stack:
 
 - **Languages:** Python, C/C++, MATLAB, Bash, SQL, YAML, GO 
-- **Embedded & Electronics:** PIC18F4550, basic electronics, microcontrollers  
+- **Embedded & Electronics:** PIC18F4550, basic electronics, microcontrollers, VLSI Design  
 - **Dev & Infra:** Docker, Git, GitHub, GitLab CI/CD, Terraform, AWS (EC2, S3)  
 - **Data:** SQL, Pandas, NumPy, Excel  
 - **OS:** Linux (3+ years)  
