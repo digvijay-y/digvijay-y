@@ -24,12 +24,34 @@
 
 ---
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=digvijay-y&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=digvijay-y&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="brijeshthummar02" />
+
+</details>                     
+<br>
+
+<div align="center">
+  
 ### 📈 GitHub Stats
 
 ![Digvijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=digvijay-y&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay-y&layout=compact&theme=radical)
 
+</div>
+
 ---
+
+<div align="center">
+
+### 🔝 Top Contributed Repo  
+![](https://github-contributor-stats.vercel.app/api?username=digvijay-y&limit=1&theme=panda&combine_all_yearly_contributions=true)
+
+</div>
 
 ### 📬 Let’s Connect
 
