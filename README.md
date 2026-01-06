@@ -8,7 +8,7 @@
 ### 🚀 What I'm up to:
 
 - 🔧 Building systems with **FastAPI**, **Golang GORM**, **PostgreSQL**, **Docker** and exploring **Mangodb**
-- 📈 Learning **Quantitative Finance**, working on **ML-based financial modeling**
+- 📈 Learning **Backend/Infra**, working on **ML-based financial modeling**
 - 💻 Daily driver on **Linux** (3+ years experience)
 - 💾 Working with **SQL** and **databases** for backend + analytics workflows
 ---
@@ -23,6 +23,8 @@
 - **Learning:** Kubernetes, ML
 
 ---
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
 
 
 ## 🏆 GitHub Trophies
