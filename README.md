@@ -24,7 +24,7 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Profile views](https://komarev.com/ghpvc/?username=digvijay-y)
 
 
 ## 🏆 GitHub Trophies
