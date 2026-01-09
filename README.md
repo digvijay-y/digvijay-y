@@ -41,11 +41,12 @@
   
 ### 📈 GitHub Stats
 
-
-![langs](https://github.com/digvijay-y/digvijay-y/blob/actions_branch/languagesDarkMode.svg#gh-dark-mode-only)
-![langslight](https://github.com/digvijay-y/digvijay-y/blob/actions_branch/languagesLightMode.svg#gh-light-mode-only)
-![overview](https://github.com/digvijay-y/digvijay-y/actions_branch/overviewDarkMode.svg#gh-dark-mode-only)
-![overviewlight](https://github.com/digvijay-y/digvijay-y/blob/actions_branch/overviewLightMode.svg#gh-light-mode-only)
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digvijay-y&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=digvijay-y&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digvijay-y&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digvijay-y&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digvijay-y&theme=github_dark" />
 </div>
 
 ---
@@ -62,4 +63,4 @@
 - [LinkedIn](https://linkedin.com/in/digvijay-yeware)  
 - [Email](mailto:yewaredigvijay@gmail.com)
 
-> *“Engineer with curiosity, discipline, and caffeine.” With love for Mathematics and computer Science*
+> *“Engineer with curiosity, discipline, and caffeine. With love for Mathematics and computer Science”*
