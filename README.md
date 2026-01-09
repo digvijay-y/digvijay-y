@@ -41,9 +41,11 @@
   
 ### 📈 GitHub Stats
 
-![Digvijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=digvijay-y&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=digvijay-y&layout=compact&theme=radical)
 
+![langs](https://github.com/digvijay-y/digvijay-y/blob/actions_branch/languagesDarkMode.svg#gh-dark-mode-only)
+![langslight](https://github.com/digvijay-y/digvijay-y/blob/actions_branch/languagesLightMode.svg#gh-light-mode-only)
+![overview](https://github.com/digvijay-y/digvijay-y/actions_branch/overviewDarkMode.svg#gh-dark-mode-only)
+![overviewlight](https://github.com/digvijay-y/digvijay-y/blob/actions_branch/overviewLightMode.svg#gh-light-mode-only)
 </div>
 
 ---
