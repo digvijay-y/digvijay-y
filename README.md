@@ -8,7 +8,7 @@
 ### 🚀 What I'm up to:
 
 - 🔧 Building systems with **FastAPI**, **Golang GORM**, **PostgreSQL**, **Docker** and exploring **Mangodb**
-- 📈 Learning **Backend/Infra**, working on **ML-based financial modeling**
+- 📈 Learning **Backend/Infra/Devops**, working on **ML-based financial modeling**
 - 💻 Daily driver on **Linux** (3+ years experience)
 - 💾 Working with **SQL** and **databases** for backend + analytics workflows
 ---
