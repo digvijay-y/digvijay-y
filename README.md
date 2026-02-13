@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Digvijay!
 
 🎓 Final year Electronics & Telecommunication Engineering student  
-📍 India | Backend Enginnering, Quant, Machine Learning
+📍 India | Backend Enginnering, Machine Learning
 
 ---
 
@@ -15,9 +15,9 @@
 
 ### 🛠 Tech Stack:
 
-- **Languages:** Python, C/C++, MATLAB, Bash, SQL, YAML, GO, Java
-- **Frameworks:** FastAPI, Gin, GORM, JWT, gRPC, OOP 
-- **Dev & Infra:** Docker, Git, GitHub, GitLab CI/CD, Terraform, AWS (EC2, S3)  
+- **Languages:** Python,C++, MATLAB, Bash, SQL, GO 
+- **Frameworks:** FastAPI, Gin, GORM, JWT, gRPC, tensorflow
+- **Dev & Infra:** Docker, Git, GitHub, GitLab CI/CD, Terraform, AWS (EC2, S3), Prometheus, Grafana
 - **Data:** SQL, Pandas, NumPy, Excel  
 - **OS:** Linux (3+ years)  
 - **Learning:** Kubernetes, ML
