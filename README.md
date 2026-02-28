@@ -3,35 +3,20 @@
 🎓 Final year Electronics & Telecommunication Engineering student  
 📍 India | Backend/Infra/Scientific computing
 
-Currently: DevOps Intern
+Currently: DevOps Intern at Quant-data.io
 
----
+**Top 4%** International Quant Championship 2025 by WorldQuant
 
-### 🚀 What I'm up to:
-
-- 🔧 Building systems with **FastAPI**, **Golang GORM**, **PostgreSQL**, **Docker** and exploring **Mangodb**
-- 📈 Learning **Backend/Infra/Devops**, working on **ML-based financial modeling**
-- 💻 Daily driver on **Linux** (3+ years experience)
-- 💾 Working with **SQL** and **databases** for backend + analytics workflows
 ---
 
 ### 🛠 Tech Stack:
 
-- **Languages:** Python,C++, MATLAB, Bash, SQL, GO 
-- **Frameworks:** FastAPI, Gin, GORM, JWT, gRPC, tensorflow
-- **Dev & Infra:** Docker, Git, GitHub, GitLab CI/CD, Terraform, AWS (EC2, S3), Prometheus, Grafana
-- **Data:** SQL, Pandas, NumPy, Excel  
-- **OS:** Linux (3+ years)
-- **Math:** Linear Algebra, Calculus, PDEs
-- **Learning:** Kubernetes, ML
-
+- **Languages:** Go · Python · C++
+- **Databases:** PostgreSQL · SQL
+- **DevOps:** Docker · Kubernetes · Terraform · AWS
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=digvijay-y)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=digvijay-y&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 <hr>
 
