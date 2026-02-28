@@ -54,7 +54,7 @@
 <div align="center">
 
 ### 🔝 Top Contributed Repo  
-![](https://github-contributor-stats.vercel.app/api?username=digvijay-y&limit=2&theme=panda&combine_all_yearly_contributions=true)
+![Contributions](contributions.svg)
 
 </div>
 
