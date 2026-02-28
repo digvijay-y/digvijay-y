@@ -1,7 +1,9 @@
 # 👋 Hey there, I'm Digvijay!
 
 🎓 Final year Electronics & Telecommunication Engineering student  
-📍 India | Backend Enginnering, Machine Learning
+📍 India | Backend/Infra/Scientific computing
+
+Currently: DevOps Intern
 
 ---
 
@@ -19,7 +21,8 @@
 - **Frameworks:** FastAPI, Gin, GORM, JWT, gRPC, tensorflow
 - **Dev & Infra:** Docker, Git, GitHub, GitLab CI/CD, Terraform, AWS (EC2, S3), Prometheus, Grafana
 - **Data:** SQL, Pandas, NumPy, Excel  
-- **OS:** Linux (3+ years)  
+- **OS:** Linux (3+ years)
+- **Math:** Linear Algebra, Calculus, PDEs
 - **Learning:** Kubernetes, ML
 
 ---
