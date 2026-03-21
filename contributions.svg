@@ -32,9 +32,9 @@
   <text y="158" font-size="12" font-family="ui-monospace,'Cascadia Code','Fira Mono',monospace">
     <tspan x="20" fill="#6e7681">kubeflow/</tspan><tspan fill="#e6edf3" font-weight="600">sdk</tspan>
   </text>
-  <rect x="20" y="168" width="49" height="4" rx="2" fill="#d29922" opacity="0.3"/>
+  <rect x="20" y="168" width="48" height="4" rx="2" fill="#d29922" opacity="0.3"/>
   <rect x="20" y="168" width="16" height="4" rx="2" fill="#d29922" opacity="0.85"/>
-  <text x="77" y="174" font-size="10" font-family="ui-monospace,monospace" fill="#484f58">1.1k lines</text>
+  <text x="76" y="174" font-size="10" font-family="ui-monospace,monospace" fill="#484f58">1.1k lines</text>
   <rect x="420" y="151" width="100" height="24" rx="12" fill="#3a2e10" stroke="#d2992250" stroke-width="1"/>
   <circle cx="436" cy="163" r="3.5" fill="#bb8009"/>
   <text x="444" y="167" font-size="11" font-family="'Segoe UI',system-ui,sans-serif" font-weight="600" fill="#d29922">Contributor</text>
@@ -73,7 +73,7 @@
   <text x="444" y="329" font-size="11" font-family="'Segoe UI',system-ui,sans-serif" font-weight="600" fill="#58a6ff">Owner</text>
     <rect x="0" y="352" width="540" height="38" fill="#090c10"/>
     <line x1="0" y1="352" x2="540" y2="352" stroke="#21262d" stroke-width="1"/>
-    <text x="270" y="376" font-size="10" font-family="'Segoe UI',system-ui,sans-serif" fill="#30363d" text-anchor="middle">Auto-updated Mar 20, 2026 UTC · github.com/digvijay-y</text>
+    <text x="270" y="376" font-size="10" font-family="'Segoe UI',system-ui,sans-serif" fill="#30363d" text-anchor="middle">Auto-updated Mar 21, 2026 UTC · github.com/digvijay-y</text>
   </g>
   <rect width="540" height="390" rx="13" fill="none" stroke="#30363d" stroke-width="1"/>
 </svg>
