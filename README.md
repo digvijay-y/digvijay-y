@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Digvijay!
 
 🎓 Final year Electronics & Telecommunication Engineering student  
-📍 India | Backend/Infra/Scientific computing
+📍 India | Backend/Infra/Scientific Computing
 
 Currently: DevOps Intern at Quant-data.io
 
