@@ -84,7 +84,7 @@
   <text x="444" y="383" font-size="11" font-family="'Segoe UI',system-ui,sans-serif" font-weight="600" fill="#58a6ff">Owner</text>
     <rect x="0" y="406" width="540" height="38" fill="#090c10"/>
     <line x1="0" y1="406" x2="540" y2="406" stroke="#21262d" stroke-width="1"/>
-    <text x="270" y="430" font-size="10" font-family="'Segoe UI',system-ui,sans-serif" fill="#30363d" text-anchor="middle">Auto-updated May 18, 2026 UTC · github.com/digvijay-y</text>
+    <text x="270" y="430" font-size="10" font-family="'Segoe UI',system-ui,sans-serif" fill="#30363d" text-anchor="middle">Auto-updated May 19, 2026 UTC · github.com/digvijay-y</text>
   </g>
   <rect width="540" height="444" rx="13" fill="none" stroke="#30363d" stroke-width="1"/>
 </svg>
