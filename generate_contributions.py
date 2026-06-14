@@ -80,7 +80,7 @@ def aggregate(prs: list, username: str) -> list:
         repos[key]["lines"] += pr["additions"] + pr["deletions"]
 
     ranked = sorted(repos.values(), key=lambda r: r["lines"], reverse=True)
-    return [r for r in ranked if r["lines"] > 0][:10]
+    return [r for r in ranked if r["lines"] > 0 and not r["is_own"]][:10]
 
 
 def get_status(repo: dict) -> str:
