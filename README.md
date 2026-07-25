@@ -3,7 +3,7 @@
 🎓 Final year Electronics & Telecommunication Engineering student  
 📍 India | Backend/Infra/Scientific Computing
 
-Currently: DevOps Intern at Quant-data.io
+Currently: Jr. DevOps (Platform) Engineer @cogrion
 
 **Top 4%** International Quant Championship 2025 by WorldQuant
 
