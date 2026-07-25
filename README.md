@@ -1,9 +1,9 @@
 # 👋 Hey there, I'm Digvijay!
-
-🎓 Final year Electronics & Telecommunication Engineering student  
-📍 India | Backend/Infra/Scientific Computing
+  
+📍 India | plaftfrom Engineer/Scientific Computing
 
 Currently: Jr. DevOps (Platform) Engineer @cogrion
+ - Building Multi-cloud, Multi-tenant Architecture 
 
 **Top 4%** International Quant Championship 2025 by WorldQuant
 
@@ -13,7 +13,7 @@ Currently: Jr. DevOps (Platform) Engineer @cogrion
 
 - **Languages:** Go · Python · C++
 - **Databases:** PostgreSQL · SQL
-- **DevOps:** Docker · Kubernetes · Terraform · AWS
+- **DevOps:** Docker · Kubernetes · Terraform · AWS · Alibaba Cloud
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=digvijay-y)
