@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Digvijay!
   
-📍 India | plaftfrom Engineer/Scientific Computing
+📍 India | platform Engineer/Scientific Computing
 
 Currently: Jr. DevOps (Platform) Engineer @cogrion
  - Building Multi-cloud, Multi-tenant Architecture 
