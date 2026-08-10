@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="540" height="444" viewBox="0 0 540 444">
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="498" viewBox="0 0 540 498">
   <defs>
     <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#238636"/>
       <stop offset="50%" stop-color="#1f6feb"/>
       <stop offset="100%" stop-color="#8957e5"/>
     </linearGradient>
-    <clipPath id="c"><rect width="540" height="444" rx="13"/></clipPath>
+    <clipPath id="c"><rect width="540" height="498" rx="13"/></clipPath>
   </defs>
-  <rect width="540" height="444" rx="13" fill="#0d1117"/>
+  <rect width="540" height="498" rx="13" fill="#0d1117"/>
   <g clip-path="url(#c)">
     <rect x="0" y="0" width="540" height="3" fill="url(#g)"/>
     <rect x="0" y="3" width="540" height="79" fill="#0d1117"/>
@@ -82,9 +82,20 @@
   <rect x="420" y="367" width="100" height="24" rx="12" fill="#3a2e10" stroke="#d2992250" stroke-width="1"/>
   <circle cx="436" cy="379" r="3.5" fill="#bb8009"/>
   <text x="444" y="383" font-size="11" font-family="'Segoe UI',system-ui,sans-serif" font-weight="600" fill="#d29922">Contributor</text>
-    <rect x="0" y="406" width="540" height="38" fill="#090c10"/>
-    <line x1="0" y1="406" x2="540" y2="406" stroke="#21262d" stroke-width="1"/>
-    <text x="270" y="430" font-size="10" font-family="'Segoe UI',system-ui,sans-serif" fill="#30363d" text-anchor="middle">Auto-updated Aug 09, 2026 UTC · github.com/digvijay-y</text>
+  <rect x="0" y="406" width="540" height="54" fill="#0d1117"/>
+  <line x1="0" y1="406" x2="540" y2="406" stroke="#21262d" stroke-width="1"/>
+  <text y="428" font-size="12" font-family="ui-monospace,'Cascadia Code','Fira Mono',monospace">
+    <tspan x="20" fill="#6e7681">kubernetes-sigs/</tspan><tspan fill="#e6edf3" font-weight="600">kueue</tspan>
+  </text>
+  <rect x="20" y="438" width="6" height="4" rx="2" fill="#d29922" opacity="0.3"/>
+  <rect x="20" y="438" width="3" height="4" rx="2" fill="#d29922" opacity="0.85"/>
+  <text x="34" y="444" font-size="10" font-family="ui-monospace,monospace" fill="#484f58">8 lines</text>
+  <rect x="420" y="421" width="100" height="24" rx="12" fill="#3a2e10" stroke="#d2992250" stroke-width="1"/>
+  <circle cx="436" cy="433" r="3.5" fill="#bb8009"/>
+  <text x="444" y="437" font-size="11" font-family="'Segoe UI',system-ui,sans-serif" font-weight="600" fill="#d29922">Contributor</text>
+    <rect x="0" y="460" width="540" height="38" fill="#090c10"/>
+    <line x1="0" y1="460" x2="540" y2="460" stroke="#21262d" stroke-width="1"/>
+    <text x="270" y="484" font-size="10" font-family="'Segoe UI',system-ui,sans-serif" fill="#30363d" text-anchor="middle">Auto-updated Aug 10, 2026 UTC · github.com/digvijay-y</text>
   </g>
-  <rect width="540" height="444" rx="13" fill="none" stroke="#30363d" stroke-width="1"/>
+  <rect width="540" height="498" rx="13" fill="none" stroke="#30363d" stroke-width="1"/>
 </svg>
