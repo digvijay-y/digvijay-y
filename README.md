@@ -2,7 +2,7 @@
   
 📍 India | platform Engineer/Scientific Computing
 
-Currently: Jr. DevOps (Platform) Engineer @cogrion
+Currently: DevOps (Platform) Engineer @cogrion
  - Building Multi-cloud, Multi-tenant Architecture 
 
 **Top 4%** International Quant Championship 2025 by WorldQuant
