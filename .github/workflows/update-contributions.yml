@@ -26,7 +26,7 @@ jobs:
 
       - name: Generate contributions.svg
         env:
-          GITHUB_TOKEN: ${{ secrets.CONTRIB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           GITHUB_USERNAME: digvijay-y
         run: python generate_contributions.py
 
